@@ -3,7 +3,7 @@ import { CurrentPageReference } from 'lightning/navigation';
 import { fireEvent } from 'c/pubsub';
 
 const DELAY = 350;
-const MAX_PRICE = 1200000;
+const MAX_PRICE = 1500000;
 
 export default class PropertyFilter extends LightningElement {
     @track searchKey = '';
