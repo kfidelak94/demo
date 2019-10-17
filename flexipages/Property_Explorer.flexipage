@@ -21,6 +21,9 @@
         <componentInstances>
             <componentName>propertySummary</componentName>
         </componentInstances>
+        <componentInstances>
+            <componentName>daysOnMarket</componentName>
+        </componentInstances>
         <name>right</name>
         <type>Region</type>
     </flexiPageRegions>
