@@ -73,6 +73,15 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Spanish_Speaking__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Does the broker speak spanish?</description>
+        <externalId>false</externalId>
+        <label>Spanish Speaking</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
     <actionOverrides>
         <actionName>Accept</actionName>
         <type>Default</type>
